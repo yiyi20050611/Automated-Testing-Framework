@@ -20,7 +20,7 @@ A data-driven API automation testing framework built with **Python, pytest, Exce
 │   ├── config.py          # Local configuration; keep it private
 │   └── config.example.py  # Safe configuration template
 ├── data/
-│   └── 测试用例示例.xlsx   # Sample Excel test cases
+│   └── Test_case_Example.xlsx   # Sample Excel test cases
 ├── file/
 │   └── 1.jpg              # Sample upload file
 ├── testcases/
